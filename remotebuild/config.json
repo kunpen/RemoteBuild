@@ -1,7 +1,8 @@
 {
-    "host": "42.193.0.146",
-    "user": "ubuntu",
-    "key": "./txyun.pem",
+    "host": "",
+    "user": "",
+    "key": "",
     "target_dir": ".\\build_output"
 
 }
+
